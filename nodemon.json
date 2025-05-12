@@ -1,0 +1,7 @@
+{
+  "env": {
+    "JWT_TOKEN":"R@nd0m!z3",
+    "MONGODB_URI": "mongodb+srv://randomize:ebfWCJiKYASMxEOP@cluster0.lbirkmm.mongodb.net/cryptx",
+    "PORT": 3000
+  }
+}
